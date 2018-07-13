@@ -3,5 +3,5 @@ let currentUser="Louis"
 
 const welcomeMessage= "Welcome to Flatbook, "+ currentUser +"!"
 
-const excitedWelcomeMessage ="WELCOME TO FLATBOOK, " + currentUser.capitalize +"!"
+const excitedWelcomeMessage ="WELCOME TO FLATBOOK, " + currentUser +"!"
   
